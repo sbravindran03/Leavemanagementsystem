@@ -1,0 +1,13 @@
+:root{
+  --primary:#1e40af; /* deep blue */
+  --accent:#6366f1;  /* indigo */
+  --muted:#f5f7fa;
+  --card:#ffffff;
+  --text:#111827;
+  --subtext:#4b5563;
+  --green:#10b981;
+  --red:#ef4444;
+  --radius:10px;
+  --shadow: 0 6px 18px rgba(15,23,42,0.06);
+  font-family: Inter, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}

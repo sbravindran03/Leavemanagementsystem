@@ -1,0 +1,7 @@
+.team-calendar, .recent-activity{background:var(--card);padding:16px;border-radius:12px;box-shadow:var(--shadow);border:1px solid #eef2ff}
+.team-calendar h3, .recent-activity h3{margin:0 0 10px}
+.mini-calendar{display:flex;flex-direction:column;gap:6px}
+.cal-row{display:flex;gap:6px}
+.cal-cell{width:34px;height:34px;border-radius:6px;border:1px solid #eef2ff}
+.activity-list{list-style:none;padding:0;margin:12px 0 0;display:flex;flex-direction:column;gap:10px}
+.activity-item{color:var(--subtext);font-size:14px}
