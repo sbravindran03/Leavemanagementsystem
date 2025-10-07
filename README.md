@@ -105,10 +105,6 @@ npm run dev
 
 Now visit 👉 http://localhost:5173
 
-📸 Screenshots
-
-(Add your screenshots here later for UI preview)
-
 📦 Deployment
 
 Backend: Can be deployed on Render
